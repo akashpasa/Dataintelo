@@ -17,7 +17,9 @@ Silicone thermally conductive gels are specialized materials designed to dissipa
 These gels offer superior performance due to their:
 
 High thermal conductivity.
+
 Excellent dielectric properties.
+
 Enhanced durability under extreme conditions.
 
 ## Market Dynamics Driving Growth
